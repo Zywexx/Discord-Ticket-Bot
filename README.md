@@ -45,10 +45,6 @@ node index.js
 3. Yetkililer ticket'ları yönetir (kapatma, transkript oluşturma vb.)
 4. Kapatılan ticket'lar otomatik olarak loglanır
 
-## 🌟 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen önce bir Issue açarak önerinizi tartışalım, ardından Pull Request gönderin.
-
 ## 📜 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
