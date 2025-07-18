@@ -1,0 +1,7 @@
+{
+    "token": "",          // Botun token'i. Discord Developer Portal'dan alırsın. Örnek: "MTA...-TOKENİN"
+    "clientId": "",       // Botun Uygulama (Client) ID'si. Yine Discord Developer Portal'dan alınır.
+    "parent": "",         // Ticket açıldığında oluşturulacak kanalın hangi kategori (Category Channel) altında olacağını belirten kategori ID'si.
+    "roleStaffId": "",    // Ticketlara erişimi olan yetkili rolünün ID'si. Örnek: Moderatör rolü ID'si.
+    "logChannel": ""      // Ticket kapandığında veya işlem yapıldığında logların gönderileceği kanalın ID'si.
+}
