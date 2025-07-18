@@ -47,7 +47,7 @@ node index.js
 
 ## 📜 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu proje GPL-3.0 lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ---
 
